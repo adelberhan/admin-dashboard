@@ -1,0 +1,20 @@
+{
+  "active_until": "Active Until",
+  "show_ticket": "Show Movie Ticket",
+  "month": "July",
+  "discount": "Discount",
+  "share": "Share",
+  "reserve": "Reserve a New Ticket",
+  "active": "Active",
+  "name": "User",
+  "price": "Price",
+  "tacket_number": "Ticket Number",
+  "num_of_tickets": "Number of People",
+  "num_purchases": "Number of Purchases",
+  "ticket_details": "Ticket Details",
+  "cinemas": "cinemas",
+  "seals":"Ticket sales"
+
+
+
+}
