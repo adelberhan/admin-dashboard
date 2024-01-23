@@ -1,0 +1,19 @@
+{
+  "active_until": "فعال حتى",
+  "show_ticket": "عرض التذكرة الخاصة بالفيلم",
+  "month": "يوليو ",
+  "discount": "خصم",
+  "share": "مشاركة",
+  "reserve": "حجز تذكرة جديدة",
+  "active": "مفعلة",
+  "name": "المستخدم",
+  "price": "السعر",
+  "tacket_number": "رقم التذكرة",
+  "num_of_tickets": "عدد الأشخاص",
+  "num_purchases": "عدد مرات الشراء",
+  "ticket_details": "التذكرة",
+  "cinemas": "السينمات",
+  "book_ticket":"حجز تذكرة جديدة",
+  "seals":"مبيعات التذاكر"
+
+}
